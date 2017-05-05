@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bungee|Bungee+Inline|Bungee+Shade|Dosis|Oswald|Assistant:300');
+#porfacambia{
+
+    //color: red;
+    font-size:0.8em;
+    text-align: justify;
+    font-family: 'Dosis', sans-serif;
+
+
+}
+#porfaTitulo{
+    color: black;
+    font-size:1.1em;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Assistant', sans-serif;
+}
+
+
+#porfacambia2{
+
+    //color: red;
+    font-size:1em;
+    text-align: justify;
+    font-family: 'Dosis', sans-serif;
+
+
+}
+
+#fecha {
+    font-size:0.8em;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+#author{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+
+#articleColor{
+    color: #03A7BF;
+    font-family: 'Bungee', cursive;
+
+}
+
+#categoryNews{
+   color: #03A7AF;
+   font-size:65px;
+   font-family: 'Bungee Inline', cursive;
+}
+
+#articleColorTitle{
+   color: #03A7BF;
+   font-size:100px;
+   font-family: 'Bungee Inline', cursive;
+}
+#logo{
+   color: #03A7BF;
+   font-size:30px;
+   font-weight: bold;
+   font-family: 'Bungee Shade', cursive;
+}
+
+
+
